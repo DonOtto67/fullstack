@@ -1,0 +1,28 @@
+p{
+    color:green;
+    font-size: 18pt;
+}
+h9{
+    color: green;
+}
+h7{
+    color: green;
+}
+h8{
+    color: green;
+}
+#Favoritos{
+    color: red;
+}
+#tere{
+    color: rgb(60, 255, 0);
+}
+.lebron{
+    color: brown;
+}
+div p{
+    color: rgb(0, 140, 255);
+}
+a:hover{
+    color: rgba(26, 0, 73, 0.753)   ;
+}
